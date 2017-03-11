@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Twitter Feed</string>
+    <string name="x">#%1$d</string>
+    <string name="network_error_long_descr">Network error, make sure you have internet access</string>
+    <string name="retry">Retry</string>
+    <string name="exceeded_connection_limit_for_user">Exceeded connection limit for user, wait a few seconds</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+</resources>
